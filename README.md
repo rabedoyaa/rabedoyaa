@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rabedoyaa and I am passionate about all the topics related to the environmental issues especially carbon behavior and eddy covariance. I like compiling data, analysing and giving them a sense. This is an outdated please visit 
+- 👋 Hi, I’m @rabedoyaa and I am passionate about all the topics related to the environmental issues especially carbon behavior and eddy covariance. I like compiling data, analysing and giving them a sense. This is an outdated profile, please visit 
 
 https://github.com/seol9e
 
